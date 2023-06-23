@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif' align='right' width='400' alt='codimg picture'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsinghrajputcse&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghrajputcse" /> </p>
 
