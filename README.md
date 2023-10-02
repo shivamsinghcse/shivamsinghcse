@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div style="text-align: center;">
-        <img src="/images/bannergif.gif" alt="banner" style="width: 90vw;">
+<!--         <img src="/images/bannergif.gif" alt="banner" style="width: 90vw;"> -->
     </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghcse" /> </p>
 
