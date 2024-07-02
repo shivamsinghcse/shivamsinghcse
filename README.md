@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsinghcse&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsinghcse" /> </p>
 
 
-- 🔭 I’m co-founder of **RETIC(StartUp)**
+- 🔭 I’m founder of **NexOffice(startup)**
 
 - 🌱 I’m currently learning **ReactJs ,NextJs**
 
